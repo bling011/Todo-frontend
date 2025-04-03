@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bling011/Todo-frontend.git/static/css/main.a85c44ee.css",
+    "main.js": "/bling011/Todo-frontend.git/static/js/main.197fb14c.js",
+    "static/js/453.5f715be2.chunk.js": "/bling011/Todo-frontend.git/static/js/453.5f715be2.chunk.js",
+    "index.html": "/bling011/Todo-frontend.git/index.html",
+    "main.a85c44ee.css.map": "/bling011/Todo-frontend.git/static/css/main.a85c44ee.css.map",
+    "main.197fb14c.js.map": "/bling011/Todo-frontend.git/static/js/main.197fb14c.js.map",
+    "453.5f715be2.chunk.js.map": "/bling011/Todo-frontend.git/static/js/453.5f715be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85c44ee.css",
+    "static/js/main.197fb14c.js"
+  ]
+}
